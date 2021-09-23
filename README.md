@@ -1,0 +1,3 @@
+### A little about myself...
+Hi! My name is Girish and I am a first-year student at UCSD majoring in Electrical Engineering. I hope to get a career in intelligent systems, robotics, and control.
+> My hobbies: drawing, coding, reading, writing articles.
